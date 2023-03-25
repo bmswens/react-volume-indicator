@@ -1,5 +1,8 @@
 ## React Volume Indicator
+## Updates
+Repo merged back into the main and archived.
 
+Please [check out the main repo](https://github.com/nikhil-sachdeva/react-volume-indicator).
 
 ### Get your mic's volume (via webRTC) in normalized 0-100 range!
 [react-volume-indicator](https://www.npmjs.com/package/react-volume-indicator)
